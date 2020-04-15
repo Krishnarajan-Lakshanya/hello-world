@@ -6,6 +6,7 @@ public class Main {
 		
 		System.out.println("This is my first project in eclipse to connect with GIT");
 		System.out.println("try commit");
+		System.out.println("try check");
 
 	}
 
